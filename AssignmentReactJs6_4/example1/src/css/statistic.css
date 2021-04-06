@@ -1,0 +1,12 @@
+.Statistic-icon {
+    color: #8ddfe4;
+    font-size: 36px;
+}
+
+.Statistic-text p:nth-child(1) {
+    font-size: 32px;
+}
+
+.Statistic-text p:nth-child(2) {
+    font-size: 16px;
+}

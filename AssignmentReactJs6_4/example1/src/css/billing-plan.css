@@ -1,0 +1,50 @@
+.Billing-body > p {
+    font-size: 10px;
+}
+
+.Billing-card:nth-child(2) > .Billing-header {
+    color: #ef37c1;
+    font-size: 40px
+}
+
+.Billing-card:nth-child(2) > .Billing-footer > button {
+    background-color: #ef37c1;
+    border: none;
+    color: white;
+}
+
+.Billing-card:nth-child(2) > .Billing-footer > button:hover {
+    background-color: white;
+    border: 1px solid #ef37c1;
+    color: #ef37c1;
+}
+
+.Billing-footer > button {
+    background-color: white;
+    border: 1px solid #6b1d58;
+    border-radius: 25px;
+    color: #6b1d58;
+}
+
+.Billing-footer > button:hover {
+    color: white;
+    background-color: #6b1d58;
+    border-color: transparent;
+}
+
+.Billing-header {
+    color: #6b1d58;
+    font-size: 40px
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.Privilege-included {
+    color: #5f5f5f
+}
+
+.Privilege-excluded {
+    color: #a9a9a9
+}
