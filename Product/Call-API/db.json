@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ao phong",
+      "price": 50000,
+      "category": "ao"
+    },
+    {
+      "id": 2,
+      "name": "so mi",
+      "price": 30000,
+      "category": "ao"
+    },
+    {
+      "id": 3,
+      "name": "hook di",
+      "price": 70000,
+      "category": "ao"
+    },
+    {
+      "id": 4,
+      "name": "quan dui",
+      "price": 150000,
+      "category": "quan"
+    },
+    {
+      "id": "23424",
+      "name": "sdf",
+      "price": "2342",
+      "category": "ao"
+    }
+  ],
+  "category": [
+    {
+      "categoryid": 1,
+      "categoryname": "ao"
+    },
+    {
+      "categoryid": 2,
+      "categoryname": "quan"
+    }
+  ]
+}
